@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Maria",
+        "cpf": "22233344432",
+        "email": "maria@teste.com.br",
+        "whatsapp": "11999999999",
+        "address":{
+            "postalcode": "01001001",
+            "street": "Praça da Sé",
+            "number": "123",
+            "details": "casa",
+            "disttrict": "Sé",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "João",
+        "cpf": "0000002",
+        "email": "maria@teste.com.br",
+        "whatsapp": "11999999999",
+        "address":{
+            "postalcode": "01001001",
+            "street": "Praça da Sé",
+            "number": "123",
+            "details": "casa",
+            "disttrict": "Sé",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Maria",
+        "cpf": "22233344432",
+        "email": "mariateste.com.br",
+        "whatsapp": "11999999999",
+        "address":{
+            "postalcode": "01001001",
+            "street": "Praça da Sé",
+            "number": "123",
+            "details": "casa",
+            "disttrict": "Sé",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
